@@ -1,0 +1,16 @@
+service\Especialidad.class
+service\Cita.class
+service\service\MedicoFacadeREST.class
+service\Cliente.class
+service\Paciente.class
+service\service\EspecialidadFacadeREST.class
+service\service\RecetaFacadeREST.class
+service\service\CitaInicioFacadeREST.class
+service\service\PacienteFacadeREST.class
+service\CitaInicio.class
+service\Medico.class
+service\service\CitaFacadeREST.class
+service\Receta.class
+service\service\ClienteFacadeREST.class
+service\service\ApplicationConfig.class
+service\service\AbstractFacade.class
